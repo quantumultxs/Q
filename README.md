@@ -1,4 +1,7 @@
 # Quantumult X
+
+https://ghproxy.com/https://raw.githubusercontent.com/quantumultxs/Q/main/Qx.conf
+
 Config files for my GitHub profile.
 
 https://github.com/KOP-XIAO/QuantumultX
