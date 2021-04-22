@@ -1,8 +1,16 @@
 # Quantumult X
 
+## Config files for my Quantumult X profile.
+
+Quantumult X config
 https://ghproxy.com/https://raw.githubusercontent.com/quantumultxs/Q/m/Qx.conf
 
-Config files for my GitHub profile.
+resource-parser
+https://ghproxy.com/https://raw.githubusercontent.com/quantumultxs/Q/m/resource-parser.js
+
+task
+https://ghproxy.com/https://raw.githubusercontent.com/quantumultxs/Q/m/task.json
+
 
 https://github.com/KOP-XIAO/QuantumultX
 
