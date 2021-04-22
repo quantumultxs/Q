@@ -1,5 +1,5 @@
 {
-    "name": "Qx_task",
+    "name": "Qx task",
     "description": "",
     "task": [
         "10 0-23/4 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js, tag=京东健康社区0301版, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
