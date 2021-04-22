@@ -1,6 +1,6 @@
 # Quantumult X
 
-https://ghproxy.com/https://raw.githubusercontent.com/quantumultxs/Q/main/Qx.conf
+https://ghproxy.com/https://raw.githubusercontent.com/quantumultxs/Q/m/Qx.conf
 
 Config files for my GitHub profile.
 
